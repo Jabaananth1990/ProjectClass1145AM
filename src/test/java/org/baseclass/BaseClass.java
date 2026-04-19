@@ -210,5 +210,9 @@ public class BaseClass {
 		driver.switchTo().frame(element);
 
 	}
+	
+	public void closeTab() {
+		driver.close();
+	}
 
 }

@@ -13,4 +13,19 @@ public class OMRBranch {
 		System.out.println(y);
 	}
 
+	private void java() {
+		System.out.println("JAVA");
+
+	}
+
+	private void python() {
+		System.out.println("PYTHON");
+
+	}
+
+	private void ruby() {
+		System.out.println("RUBY");
+
+	}
+
 }
