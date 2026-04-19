@@ -13,6 +13,21 @@ public class OMRBranch {
 		System.out.println(y);
 	}
 
+	private void webApp() {
+		System.out.println("Selenium");
+
+	}
+
+	private void mobileApp() {
+		System.out.println("Appium");
+
+	}
+
+	private void apiTest() {
+		System.out.println("Rest API");
+
+	}
+
 	private void java() {
 		System.out.println("JAVA");
 
